@@ -1,0 +1,6 @@
+pytest
+databricks-connect
+pylint==2.3.1
+wheel
+chispa
+pyspark==3.4.1
